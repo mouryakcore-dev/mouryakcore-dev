@@ -48,16 +48,29 @@ AI/ML enthusiast with hands-on experience in data engineering, generative AI, an
 | Python & AI Bootcamp | DevTown × AWS Community Builders | 2024 |
 | Backend Web Dev – Node.js & Express | DevTown | Feb 2024 |
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-![](https://github-readme-stats.vercel.app/api?username=mouryakcore-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+**VISIST.AI** — AI/ML & MCP Integration  
+Building conversational AI agents for sports performance analytics using Model Context Protocol. Designed event marketing assets and vectorization pipelines for large-format printing.
 
-![](https://nirzak-streak-stats.vercel.app/?user=mouryakcore-dev&theme=dark&hide_border=true)
+**Surf Creative Solutions Ltd** — Data Engineering & ML Intern *(Jan – Jul 2026)*  
+Worked on data pipelines and machine learning workflows in a production environment.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mouryakcore-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 Projects
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=mouryakcore-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+| Project | What it does | Built with |
+|---|---|---|
+| [RAG-Chatbot_QueryGen](https://github.com/mouryakcore-dev/RAG-Chatbot_QueryGen) | Upload a PDF and ask questions — answers grounded in the document using RAG | Python, LLMs, RAG |
+| [FinanceAssistant](https://github.com/mouryakcore-dev/FinanceAssistant) | Voice-controlled finance assistant for hands-free queries | Python, NLP |
+| [CreditScore](https://github.com/mouryakcore-dev/CreditScore) | Decentralized credit scoring using ML models | Jupyter, ML |
+| [ML-BreastCancer](https://github.com/mouryakcore-dev/ML-BreastCancer) | Binary classification for breast cancer detection | Jupyter, scikit-learn |
+
+## 🔭 Currently Exploring
+
+- 🤖 LLM fine-tuning and prompt engineering for domain-specific applications
+- 🏸 Computer vision for sports — player tracking with YOLOv9 and pose estimation
+- ☁️ AWS cloud infrastructure for ML model deployment
+- 🧪 AI-assisted software testing and automated annotation pipelines
 
 ---
 
