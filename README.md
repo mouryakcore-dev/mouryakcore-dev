@@ -91,7 +91,7 @@ Worked on data pipelines and machine learning workflows in a production environm
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mouryakcore-dev&icon=6&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=mouryakcore-dev&color=1f6feb&style=flat-square&label=Profile+Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
